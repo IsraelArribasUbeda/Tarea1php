@@ -1,0 +1,16 @@
+div:hover{
+			background-image: url(puerta1.jpg);
+
+		}
+div{
+	background-image: url(puerta.jpg);
+	width: 221px; 
+	height: 420px;
+	display: inline-block;
+	margin: 20px;
+}
+body{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat, repeat;
+	font-family: monaco;
+}
